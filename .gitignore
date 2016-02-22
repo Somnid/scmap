@@ -1,0 +1,7 @@
+/*.user
+.vs
+packages
+/scmap.v11.suo
+/scmap/bin
+obj
+/scmap/scmap.csproj.user
